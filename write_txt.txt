@@ -1,0 +1,3 @@
+[[{"DeviceId": "lklkfbdkfddbef4bakkbakak3dafedq", "uid": "43fe14e102644bd5b0edcd8fc3306e80"}, {"errorCode": 1, "code": 2}],
+[{"DeviceId": "lklkfbdkfddbef4bakkbakak3dafedw", "uid": "43fe14e102644bd5b0edcd8fc3306e80"}, {"errorCode": 1, "code": 2}],
+[{"DeviceId": "lklkfbdkfddbef4bakkbakak3dafede", "uid": "43fe14e102644bd5b0edcd8fc3306e80"}, {"errorCode": 2, "code": 2}]]
